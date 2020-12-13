@@ -1,7 +1,15 @@
 # global_data-driven-SHR-datasets
-1 train Random Forest model 
-2 Leave-one-site-out cross-validation 
-3 upscaling estimate of SHR (95% CI from spread of 1000 trees in Random Forest model)
-4 total amount of SHR 
-5 attribution of SHR inter-annual variability 
-6 ecosystem-level attribution of SHR inter-annual variability 
+
+## data processing 
+#### 1 Leave-One-Out Cross Validation 
+#### 2 producing SHR products (126 members)
+#### 3 global attribution of SHR anomaly to climatic drivers 
+#### 4 biome-level attribution 
+#### 5 TRENDY model outputs attribution 
+
+## code for Figures in manuscript (.m)
+
+./Figure1.m
+./Figure2.m
+./Figure3.m
+./Figure4.m
