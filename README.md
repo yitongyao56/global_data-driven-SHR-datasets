@@ -1,5 +1,5 @@
 # global_data-driven-SHR-datasets
-
+You could download our SHR data at https://figshare.com/articles/dataset/global_SHR_datasets_zip/11340770
 ## data processing 
 #### 1 Leave-One-Out Cross Validation [newLOOCV.R](newLOOCV.R)
 #### 2 producing SHR products (126 members) [train_rf.R](train_rf.R) [produce_SHR.R](SHR_rf0827.R)
